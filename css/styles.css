@@ -1,0 +1,42 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+table {
+    width: 70%;
+}
+
+th {
+    height: 50px;
+}
+
+td {
+    text-align: center;
+}
+
+#per {
+
+
+    width: 30%;
+
+}
+
+.bg-header-footer {
+    background-color: red;
+
+
+}
+
+
+#mail-icon {
+
+    margin-left: 2rem;
+}
+
+
+#footer {
+    color: white;
+
+}
